@@ -17,4 +17,4 @@ le nombre complexe c est une constate Contrairement á L'ensemble de Mandelbrot 
 
 #### make => ./fractal mandelbrot oubien ./fractal mandelbrot
 #### make => ./bonus burning_ship.
-Possible de se deplacer avec les flèches et Zoom avec la sourie.
+Possible de se deplacer avec les flèches et de zoommer avec la sourie.
