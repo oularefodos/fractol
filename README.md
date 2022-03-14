@@ -15,6 +15,6 @@ le nombre complexe c est une constate Contrairement á L'ensemble de Mandelbrot 
 
 **** L'ensemble de Burning Ship: La fractale burning ship (« navire en feu », en anglais), décrite pour la première fois par Michael Michelitsch et Otto E. Rössler en 1992, elle a les mêmes propiétés que l'ensemble de Mandelbrot de la suite. ici Zn+1 = |(Zn * Zn)| + c.
 
-#### make => ./fractal mandelbrot ounien ./fractal mandelbrot
+#### make => ./fractal mandelbrot oubien ./fractal mandelbrot
 #### make => ./bonus burning_ship.
 Possible de se deplacer avec les flèches et Zoom avec la sourie.
