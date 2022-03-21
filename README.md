@@ -1,11 +1,11 @@
 # fractol
-Découvrez la programmation 2D et l'univers psychédelique des fractales grâce à ce projet à réaliser avec la minilibX.
+Découvrez la programmation 2D et l'univers psychédelique des fractales grâce à ce projet réalisé avec la minilibX.
 C'est quoi une fractale ?
 
 Une figure fractale est un objet mathématique qui présente une structure similaire à toutes les échelles.
 C'est un objet géométrique « infiniment morcelé » dont des détails sont observables à une échelle arbitrairement choisie. En zoomant sur une partie de la figure, il est possible de retrouver toute la figure ; on dit alors qu’elle est « auto similaire ».
 
-Dans ce project j'ai créé trois figures fractales á savoir :
+Dans ce projet j'ai créé trois figures fractales á savoir :
 **** L'ensemble de Mandelbrot: 
 En mathématiques, l'ensemble de Mandelbrot est une fractale définie comme l'ensemble des points c du plan complexe pour lesquels la suite de nombres complexes définie par récurrence par Zn+1 = Zn * Zn + C.
 Plus de detail -> http://sdz.tdct.org/sdz/dessiner-la-fractale-de-mandelbrot.html
